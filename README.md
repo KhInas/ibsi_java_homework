@@ -1,2 +1,2 @@
-# ibsi_java_homework
+# ibsu_java_homework
 new repo
